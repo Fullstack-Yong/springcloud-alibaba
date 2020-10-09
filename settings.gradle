@@ -1,0 +1,5 @@
+rootProject.name = 'springcloud-alibaba'
+include 'user'
+include 'goods1'
+include 'good2'
+

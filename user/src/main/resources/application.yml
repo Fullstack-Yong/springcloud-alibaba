@@ -1,0 +1,12 @@
+server:
+  port: 5000
+
+
+spring:
+  application:
+    name: user-client
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 #nacos服务的地址 不要加http
